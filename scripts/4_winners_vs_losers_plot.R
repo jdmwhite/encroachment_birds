@@ -32,8 +32,8 @@ text_positive <- textGrob("Positive", gp=gpar(fontsize=10))
 text_increasing <- textGrob("Increasing", gp=gpar(fontsize=10), rot = 270)
 text_occ_stable <- textGrob("Stable", gp=gpar(fontsize=10), rot = 270)
 text_decreasing <- textGrob("Decreasing", gp=gpar(fontsize=10), rot = 270)
-text_OR_franc_179 <- textGrob('Scleroptila levaillantoides', gp=gpar(fontsize=10, fontface = 'italic'))
-text_SDC_sub_760 <- textGrob('Cinnyris chalybeus', gp=gpar(fontsize=10, fontface = 'italic'))
+text_OR_franc_179 <- textGrob('Orange River\nfrancolin', gp=gpar(fontsize=10, fontface = 'italic'))
+text_SDC_sub_760 <- textGrob('Southern \ndouble-collared sunbird', gp=gpar(fontsize=10, fontface = 'italic'))
 
 # Load in grobs for png images
 orf_png <- magick::image_read('bird_images/ORF.png') %>%
