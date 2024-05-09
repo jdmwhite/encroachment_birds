@@ -8,4 +8,4 @@ This project contains 4 scripts to produce the results of the paper titled: "Woo
 
 As shown in script 1, the occupancy models were run using version 1.3.2 of the unmarked package.
 
-The cleaned data and models can be found at figshare (). To run the full analysis download the zipped figshare folder and move the respective files into the data and processed folders. This repository includes the first species used in the analysis, the Secratary bird (SABAP2 ID: 105).
+The cleaned data and models can be found at figshare (10.6084/m9.figshare.25577460). To run the full analysis download the zipped figshare folder and move the respective files into the data and processed folders. This repository includes the first species used in the analysis, the Secratary bird (SABAP2 ID: 105).
